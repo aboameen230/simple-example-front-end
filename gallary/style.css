@@ -1,0 +1,15 @@
+.frist_photos img{
+    width: 150px;
+    height: 150px;
+    border: 5px solid grey;
+}
+.frist_photos img:hover{
+    width: 150px;
+    height: 150px;
+    border: 5px solid greenyellow;
+    cursor: pointer;
+}
+.main img{
+    width: 650px;
+    height: 650px;
+}
